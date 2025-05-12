@@ -23,9 +23,3 @@ Usage: `<./kilo filename>`
 > kilo.c      - the main source file of the editor
 > 
 > Makefile    - makefile for building and compiling a project
-
-
-## 📚 Source
-This project is based on the guide Salvatore Sanfilippo
-
-[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
